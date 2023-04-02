@@ -1,4 +1,4 @@
-# SDG MIcrogrid ADmin Panel Template
+# SDG MIcrogrid Admin Panel Template
 
 
 ## Installation
